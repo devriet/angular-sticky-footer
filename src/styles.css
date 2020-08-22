@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --dark-background: #555;
+    --dark-foreground: #0AA;
+    --light-background: #999;
+    --light-foreground: #077;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
