@@ -6,4 +6,4 @@ This is an example repository to demonstrate how I accomplished creating a stick
 
 ## Screenshots
 
-![recording](markdown-screenshots/recording.gif)
+![recording](https://github.com/devriet/angular-sticky-footer/markdown-screenshots/recording.gif)
